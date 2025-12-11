@@ -115,16 +115,29 @@
   ],
   "interests": [
     {
-      "name": "Scientific",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Artificial life",
-        "Embodied AI",
-        "Social learning",
-        "Cultural evolution",
-        "Neuroscience of Music and Dance",
-        "Cliodynamics"
-      ]
+        "name": "Scientific",
+        "icon": "fa-solid fa-tag",
+        "keywords": [
+            "Dynamical systems",
+            "Machine learning",
+            "Spatiotemporal modelling",
+            "Control theory",
+            "Artificial life",
+            "Embodied AI",
+            "Social learning",
+            "Cultural evolution",
+            "Neuroscience of music and dance"
+        ]
+    },
+    {
+        "name": "Other",
+        "icon": "fa-solid fa-tag",
+        "keywords": [
+            "Music",
+            "Philosophy",
+            "Speculative fiction"
+        ]
     }
+
   ]
 }
