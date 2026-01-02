@@ -27,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I haven't made a website since the late 90s, bear with me.
+Hello. I'm an Australian/Swedish researcher who studies the dynamical behaviours of systems, whether the systems are animals (humans included) or machines. You can find an overview in "projects", or see my publications for everything at once.
+
+At some point I might start blogging.
