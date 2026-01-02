@@ -264,7 +264,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Szorkovszky]
-  first_name: [Alex, A.]
+  first_name: [Alex, A., Alexander]
 
   style: apa
   locale: en
