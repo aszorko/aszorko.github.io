@@ -14,6 +14,6 @@ Three experiments were run: a comparison of natural populations exposed to high 
 
 New computational methods enabled a fine-grained comparison of rules of interaction in low and high predation guppies {%cite herbert2017predation%}. Dimensionality reduction, however, was able to map these group-based measures onto well-known behavioural axes {%cite sumpter2018using %}.
 
-A problem arises when considering social traits: by definition they cannot be measured in isolation. We therefore formulated an experimental method for both sorting for social traits and estimating the trait's repeatability {% cite szorkovszky2017efficient %}. Three generations of selection on alignment was then enough to show significant differences {%cite kortschal2020rapid %}.
+A problem arises when considering social traits: by definition they cannot be measured in isolation. We therefore formulated an experimental method for both sorting for social traits and estimating the trait's repeatability {% cite szorkovszky2017efficient %}. Three generations of selection on alignment was then enough to show significant differences {%cite kotrschal2020rapid %}.
 
 Subsequent work has focused on modelling of burst-and-glide swimming with social influence. A simple deterministic model of pairs, based on single spiking neurons, can exhibit chaotic intermittency {%cite gyllingberg2023using %}. Ongoing work considers a probabilistic alternative, and the question of where apparent randomness in behaviour originates.
