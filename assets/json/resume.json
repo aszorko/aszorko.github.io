@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Alex Szorkovszky",
-    "label": "Researcher",
+    "name": "Dr Alex Szorkovszky",
+    //"label": "Researcher",
     "image": "",
     "email": "aszorko at gmail dot com",
     //"phone": "",
@@ -38,7 +38,7 @@
         "url": "https://www.uio.no",
         "startDate": "2021-09",
         "endDate": "2024-02",
-        "summary": "MSCA fellowship on the COROBOREES project",
+        "summary": "MSCA fellowship on the COROBOREES project: Collective Robotics via Real-Time Entrainment of Evolved dynamical Systems",
         "highlights": [ "Bio-inspired robotics, evolutionary computing" ]
     },
     {
