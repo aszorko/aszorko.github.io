@@ -3,6 +3,7 @@ layout: page
 title: inspiration
 permalink: /links/
 nav: true
+nav_order: 5
 ---
 
 
@@ -25,6 +26,6 @@ nav: true
 <a href="https://crookedtimber.org/">Crooked Timber</a><br>
 <br>
 ## other
-<a href="https://www.complexityexplorer.org/">Complexity Explorable</a><br>
-<a href="https://www.complexity-explorables.org/">Complexity Explorables</a><br>
+<a href="https://www.complexityexplorer.org/">Complexity Explorer</a> - Tutorials by the Santa Fe Institute<br>
+<a href="https://www.complexity-explorables.org/">Complexity Explorables</a> - Web-based interactive models<br>
 <a href="https://crescentloom.com/">Crescent Loom</a> - Make creatures with CPGs in your browser<br>
