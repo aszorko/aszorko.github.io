@@ -17,7 +17,7 @@ nav_order: 5
 <a href="https://peterturchin.com/">Peter Turchin</a> - Movement ecologist who has pivoted to become a theorist and empiricist of history.<br>
 <br>
 ## podcasts
-<a href="https://www.thedissenter.net/">Brain Inspired</a><br>
+<a href="https://braininspired.co/">Brain Inspired</a><br>
 <a href="https://theoreticalneuroscience.no/">Theoretical Neuroscience</a><br>
 <br>
 ## blogs
